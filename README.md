@@ -1,6 +1,5 @@
 Olá, <b>seja bem vindo(a)!</b><br/>
-Estou em <b>busca de uma vaga</b> na área de <b>Front-end.</b> <br/>
-Sou dev web e estou à procura de uma vaga b</b>.<br/>
+Sou dev Front-end e estou em <b>busca de uma vaga</b> na área Desenvolvimento Web<br/>
 linkedin:https://www.linkedin.com/in/thais-rubia/
 
 <!---
